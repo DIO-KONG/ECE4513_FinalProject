@@ -1,0 +1,9 @@
+__pycache__
+models/model_deform_conv.pth
+models/model_deform_conv(dropout2d).pth
+models/model_et_deform_conv.pth
+models/model_et.pth
+models/model_etjaffe.pth
+models/model_jaffe.pth
+models/model_linear.pth
+models/model_softmax.pth
